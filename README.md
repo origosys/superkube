@@ -1,7 +1,7 @@
 # SuperKube
 
 <p align="center">
-<img src="https://superkube.net/images/superkube.svg" width="150" alt="SuperKube">
+<img src="https://superkube.net/images/superkube-color.svg" width="150" alt="SuperKube">
 </p>
 
 SuperKube is an open source command line tool for Kubernetes cluster backup and management written in Go.
@@ -10,7 +10,7 @@ installed as a kubectl plug-in.
 
 SuperKube can back up your entire K8S cluster from any supported provider and restore it, optionally to another supported provider. Out-of-the-box SuperKube supports Amazon (EKS), Google (GKE) and Azure (AKS). Plugins for other providers are easy to write.
 
-In the future SuperKube will be able to analyze and compare the performance and cost of your Kubernetes cluster running with your current provider and compare this with another provider. 
+SuperKube can analyze and compare the performance and cost of your Kubernetes cluster running with your current provider and compare this with another provider. 
 Performance and cost analyses are presented in simple tables with easy-to-understand key performance indicators.
 
 If your cluster can run faster or cheaper with a different provider, SuperKube can help you transfer your entire cluster from one provider to another.
