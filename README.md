@@ -21,4 +21,4 @@ SuperKube kan also provision new clusters for you.
 STATUS: SuperKube is currently under development, source code and binaries will be available here. To get a sense of the basic ideas, we have hacked together a simple technology preview that runs in a web browser. Check it out at [https://superkube.net](https://superkube.net).
 
 ## Credits
-Thanks to [https://root.vc](https://root.vc) - we shamelessly copied the code from their website for the technology preview.
+Thanks to [https://root.vc](https://root.vc) - we shamelessly copied the look and feel from their website for the technology preview.
